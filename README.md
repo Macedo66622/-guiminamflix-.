@@ -6,3 +6,9 @@
         <img src="video3.jpg" alt="Vídeo 3">
     </div>
 </section># -guiminamflix-.
+.portfolio img {
+    opacity: 0.5;
+}
+.portfolio img:hover {
+    opacity: 1.0;
+}
